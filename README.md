@@ -1,7 +1,7 @@
-### Clicky Game made with React!
+## Clicky Game made with React!
 ___
 
-# The goal is to click on each character once to win the game. But don't click on a character twice, or it's game over!
+### The goal is to click on each character once to win the game. But don't click on a character twice, or it's game over!
 
 ![Preview of game](https://github.com/enguyen93/React1/blob/master/public/images/readme.png?raw=true)
 
